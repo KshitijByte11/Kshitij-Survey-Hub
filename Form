@@ -1,0 +1,6 @@
+<form id = "Survey_Form">
+  <input type = "text" placeholder = "Name" id = "name" required>
+  <input type = "number" placeholder = "Age" id = "age" required>
+  <button type = "submit">Submit</button>
+</form>
+  
